@@ -1,0 +1,5 @@
+Classification type: multi-label
+Feature count: 103
+Class count: 14
+Instance count: 2417
+Area: biology
