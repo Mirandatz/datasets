@@ -1,0 +1,5 @@
+http://mulan.sourceforge.net/datasets-mlc.html
+
+Trohidis, K., Tsoumakas, G., Kalliris, G., & Vlahavas, I. P. (2008, September). Multi-label classification of music into emotions. In ISMIR (Vol. 8, pp. 325-330).
+
+Tsoumakas, G., Spyromitros-Xioufis, E., Vilcek, J., & Vlahavas, I. (2011). Mulan: A java library for multi-label learning. Journal of Machine Learning Research, 12(Jul), 2411-2414.

@@ -1,0 +1,5 @@
+Classification type: multi-label
+Feature count: 72
+Class count: 6
+Instance count: 593
+Area: music
