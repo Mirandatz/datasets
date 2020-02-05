@@ -1,0 +1,5 @@
+http://mulan.sourceforge.net/datasets-mlc.html
+
+Katakis, I., Tsoumakas, G., & Vlahavas, I. (2008, September). Multilabel text classification for automated tag suggestion. In Proceedings of the ECML/PKDD (Vol. 18, p. 5).
+
+Tsoumakas, G., Spyromitros-Xioufis, E., Vilcek, J., & Vlahavas, I. (2011). Mulan: A java library for multi-label learning. Journal of Machine Learning Research, 12(Jul), 2411-2414.
