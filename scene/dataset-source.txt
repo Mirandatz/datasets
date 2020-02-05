@@ -1,0 +1,5 @@
+http://mulan.sourceforge.net/datasets-mlc.html
+
+Boutell, M. R., Luo, J., Shen, X., & Brown, C. M. (2004). Learning multi-label scene classification. Pattern recognition, 37(9), 1757-1771.
+
+Tsoumakas, G., Spyromitros-Xioufis, E., Vilcek, J., & Vlahavas, I. (2011). Mulan: A java library for multi-label learning. Journal of Machine Learning Research, 12(Jul), 2411-2414.

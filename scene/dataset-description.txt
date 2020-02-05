@@ -1,0 +1,5 @@
+Classification type: multi-label
+Feature count: 294
+Class count: 6
+Instance count: 2407
+Area: image (?)
