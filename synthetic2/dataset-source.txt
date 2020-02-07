@@ -1,0 +1,4 @@
+This is a synthetic dataset generated with Read et.a. multi-label proposal.
+We utilized the RandomTreeGenerator.
+
+Read, J., Bifet, A., Holmes, G., & Pfahringer, B. (2012). Scalable and efficient multi-label classification for evolving data streams. Machine Learning, 88(1-2), 243-272.
