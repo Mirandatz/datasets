@@ -1,0 +1,5 @@
+Classification type: multi-label
+Feature count: 80
+Class count: 22
+Instance count: 10000
+Area: synthetic
